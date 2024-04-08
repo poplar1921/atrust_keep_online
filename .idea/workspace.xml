@@ -20,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -40,8 +43,20 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Desktop\python_info\atrust_keep_online\ico" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,8 +72,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712539171177</updated>
-      <workItem from="1712539174394" duration="449000" />
+      <workItem from="1712539174394" duration="4753000" />
     </task>
+    <task id="LOCAL-00001" summary="重新部署环境，去除一些不需要的模块">
+      <option name="closed" value="true" />
+      <created>1712539869909</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539869909</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加版本信息">
+      <option name="closed" value="true" />
+      <created>1712541498097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712541498097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改readme">
+      <option name="closed" value="true" />
+      <created>1712542401535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712542401535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add english readme">
+      <option name="closed" value="true" />
+      <created>1712543243083</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712543243083</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改readme">
+      <option name="closed" value="true" />
+      <created>1712543606176</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712543606176</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +131,14 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="重新部署环境，去除一些不需要的模块" />
+    <MESSAGE value="增加版本信息" />
+    <MESSAGE value="add english readme" />
+    <MESSAGE value="修改readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改readme" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/atrust_keep_online$vpn_keep.coverage" NAME="vpn_keep 覆盖结果" MODIFIED="1712539502955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/atrust_keep_online$vpn_keep.coverage" NAME="vpn_keep 覆盖结果" MODIFIED="1712541241053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
